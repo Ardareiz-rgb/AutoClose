@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoClose</string>
+    <string name="accessibility_description">When the AutoClose timer ends, return to the Android home screen.</string>
+</resources>
